@@ -1,0 +1,16 @@
+﻿ .star{
+            width:16px;
+            padding:1px;
+            background-image:url(Images/blank_star.png);
+            background-repeat:no-repeat;
+            
+        }
+        .wait{
+            background-image:url(Images/blank_star.png)
+        }
+        .fill{
+            background-image:url(Images/shining_star.png)
+        }
+        .auto-style1 {
+            height: 177px;
+        }
